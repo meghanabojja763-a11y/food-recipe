@@ -8,7 +8,7 @@ copy the repo url from GitHub
 git remote add origin 'copied url from repo'
 git branch -M main
 git push -u origin main*/
-import React, { useState, useEffect } from "react";
+import React, { useState} from "react";
 import "./App.css";
 
 function App() {
